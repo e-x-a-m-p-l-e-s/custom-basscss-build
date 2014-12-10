@@ -1,0 +1,6 @@
+@import "basscss";
+@import "./some-other-css";
+
+:root {
+  --font-family: Verdana, Geneva, sans-serif;
+}

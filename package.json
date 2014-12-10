@@ -1,0 +1,22 @@
+{
+  "name": "basscss-with-rework-npm",
+  "version": "1.0.0",
+  "description": "An example of using a custom Basscss build with gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githubc.com/e-x-a-m-p-l-e-s/custom-basscss-build.git"
+  },
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "basscss": "^4.1.5",
+    "basswork": "0.0.8",
+    "gulp": "^3.8.10",
+    "gulp-basswork": "0.0.9",
+    "gulp-rename": "^1.2.0"
+  }
+}
